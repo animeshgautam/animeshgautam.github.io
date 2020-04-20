@@ -1,11 +1,10 @@
 ---
 layout: page
 ---
-My name is Deepak Anand, and I am a PhD Scholar in [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web) at [IIT Bombay](http://www.iitb.ac.in/). I recently graduated from the Electrical Engineering department at IIT Bombay.
+My name is Animesh Gautam, and  I recently graduated at [IIM KOZHIKIDE](http://www.iitk.ac.in/).
+I maintain a list of my project work under the Project area tab. To get an insight on my professional life so far, you can have a look at my CV.
 
-I maintain a list of my publications and research implementations under the Research tab. To get an insight on my professional life so far, you can have a look at my CV.
-
-I blog every now and then compiling my personal experiences. Feel free to read a bit more about me!
+I blog every day now and then compiling my personal experiences. Feel free to read a bit more about me!
 
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
