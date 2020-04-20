@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D</b> in Electrical Engineering, Indian Institute of Technology Bombay, 2019 (expected)
-* <b>B.Tech.</b> in Electronics and Communication Engineering, Dr. M.G.R. Educational and Research Institute Chennai, 2012
-
-Publications
-======
-  <ul>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>Post graduate programme</b>, Indian Institute of Management Kozhikode, 2020
+* <b>B.Tech.</b> in Electrical Engineering, IIT (ISM) DHANBAD, 2016
   
 Work experience
 ======
-* <b> Lab Administrator 2014-19: Lab Administrator </b>
-  * Indian Institute of Technology Bombay
-  * Duties included: 
-    * Building deep learning servers
-    * Tutorials on PyTorch, TensorFlow, Python and GitHub
-    * Tutorials on best coding practices
-   * Supervisor: Professor Amit Sethi
-* <b> Project Staff 2012-13: Project Assistant </b>
-  * Indian Institute of Technology Hyderabad
-  * Duties included:
-    * Development of Piezo-electric sensor
-    * Interfacing of the sensor with driver electronics
-  * Supervisor: Professor Ranjith Ramadurai 
+* <b> BOX8 May'16 - Apr'17: Zonal Manager </b>
+  * Roles & Responsibilities: 
+    * Operations Manager, West Zone Mumbai
+      * Handled operations for 5 outlets in West Zone of Mumbai having a revenue of INR 5 mn.
+      * Carried out 3 pilot marketing researches in focused localities and identified major demand clusters
+      * Planned and super vised brand activations & Corporate ODCs at IIT Bombay and corporate complexes
+      * Reduced late order percentage by 140%, resulting in improved customer ser vice and satisfaction
+      * Key member of the hiring team for Delivery Masters and Product Associates at the zonal & city level
+      * Achieved the sales target for 3 consecutive months and 5 months in total at both outlet & zonal level
+      
+   * Initiatives:
+     *  Initiated a project at improving NPS at city level by planning duty cards and training product managers
+     *  Improved reporting from outlet by designing spreadsheets resulting in improved efficiency of outlets
+     
+   * Achievements:
+      * Improved NPS by 1.8 times in 2 months, followed by mentoring other city’s PMs for NPS improvement
+      * Appreciated for 0 iteration for 2 consecutive months and maximum retention for a total of 4 months
+      * Super vised ODCs at NH7 Weekender, Pune which had an estimated footfall of over 45,000 individuals
 
 Scholastic Achievements
 ======
