@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Animesh Gautam, and I recently graduated at [IIT KOZHIKODE](http://www.iitk.ac.in/). I work in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
+My name is Animesh Gautam, and I recently graduated at [IIM KOZHIKODE](http://www.iitk.ac.in/). I work in the area of deep learning applications to the medical images specifically for cancer diagnosis and prognosis at MeDAL (Medical Deep Learning and Artificial Intelligence Lab). I have worked in the area with pathology, radiology, and clinical images. I also have a keen interest in the field of Control theory, Numeric Linear Algebra, and Optimization.
 
 I maintain a list of my publications and research implementations under the [Publications]({{ site.url }}/publications) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Deepak_anand.pdf).
 
