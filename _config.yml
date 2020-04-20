@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Animesh Gautam"
-  avatar           : "0.jpeg"
+  avatar           : "animesh_profile.jpg"
   bio              : "MBA Graduate, IIM KOZHIKODE (Mob: 7710016872)"
   location         : "Mumbai"
   employer         : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"deepak-anand-945575162/"
+  linkedin         : "animesh-gautam/"
   orcid            : #"https://orcid.org/0000-0001-7189-6885"
   pinterest        :
   soundcloud       :
