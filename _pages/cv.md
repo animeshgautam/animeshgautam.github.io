@@ -35,30 +35,49 @@ Work experience
       * Appreciated for 0 iteration for 2 consecutive months and maximum retention for a total of 4 months
       * Super vised ODCs at NH7 Weekender, Pune which had an estimated footfall of over 45,000 individuals
 
+SUMMER INTERNSHIP
+======
+* <b> OfBusiness Apr'19 - May'19: Intern Salesr </b>
+
+  * Roles & Responsibilities:
+     * Performed Market segmentation and Sizing for White Goods and Electrical Segment for Bangalore
+     * Analyzed the functioning of the market with a revenue of more than INR 30 bn in Bangalore
+     * Focused on developing Retail Lending and Channel Partnerships in Northern Karnataka Region
+     
+  * Initiatives:
+     * Worked on 2 additional departments, Automobile parts Manufacturers and FMCG Distributors
+     
+  * Achievements:
+     * Created a data base of 390 distributors in and around Bangalore in addition to 33 customer meetings
+
+
 Scholastic Achievements
 ======
-* Recipient PG Passing-out Color (Sports), Gymkhana Awards 2018-2019, IIT Bombay
-* Reviewer for CDC 2019
-* Reviewer for MICCAI 2018
-* Judge for e-Yantra Symposium(eYS) 2018
-* Judge for  Avriti 2018, Avriti 2017
-   
-Projects & Talks
-======
-  <ul>{% for post in site.talks reversed%}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Secured an AIR of 4,542 in IIT JEE and was among the Top 1% of 0.5 mn students 2012
+* Achieved an AIR of 11,050 in AIEEE and was among the Top 1% of 0.115 mn students 2016
+* Attained A+ & A grades in around 25% (19 out of 78) academic subjects during graduation 2009
+* Achieved 90% and above in 4 subjects of 5 in Class X conducted by CBSE, Ajmer Rajasthan 2009
 
-Service and leadership
+POSITIONS OF RESPONSIBILITY
 ======
-* Mentored and collaborated in 10 master thesis at Electrical Engineering, IIT Bombay
-* Coach and Manager for National Ultimate Frisbee Team, IIT Bombay (2017-2019)
-* Sports Councilor, Hostel 1, IIT Bombay (2016-2017)
-* Teaching Assitant for Introduction to Machine Learning, Digital Image Processing, Applied Linear Algebra, Matrix Computations.
+* Co-founder, Samitra, NGO                                                                       2015-16
+  * Organized Arise Lantern festival to celebrate Diwali with Divyang Children of ‘Jeevan’ NGO
+  * Executed 4 cleanliness drives in Dhanbad witnessing participation of around 1000 individuals
+  * Attracted people towards the campaign and collected clothes to be distributed to the underprivileged
+  * Donated 1500+ clothes by volunteering in 10 cloth donation drives in and around Dhanbad
 
-Technical Skills
+
+* Organizer, Basketball Event, Parakram, Annual Sports Festival
+  * Secured participation from 12 teams having around 140 players from different colleges of India  2014 
+ 
+* Volunteer, Kartavya
+  * Taught a batch of underprivileged children and was a member of the school management team      2014-17
+
+EXTRA-CURRICULAR ACTIVITIES
 ======
 
-| <b>Programming languages</b> |                <b>Python, C/C++, R</b>               |
-|   <b>Software Libraries</b>  |       <b>TensorFlow, PyTorch, Keras, Torch</b>       |
-|         <b>Tools</b>         | <b>MATLAB, NI Labview, Scilab, Sage, Mathematica</b> |
+| <b>Social Service</b> |Appreciated for my efforts as volunteer of Fast forward India as a part of Dhanbad Chapter|2016|
+| <b>Cultural</b>  |Awarded 2 prize in the event Sur-Sangram, Singing competition, Srijan, Cultural festival|2014|
+| <b>Quizzing</b> | Won 2 Prize in Paper Presentation Competition conducted at Concetto, IIT ISM Dhanbad |2014|
+| <b>Management</b>|Awarded appreciation certificate for being member of hospitality team managing footfall of 1500|2013|
+| <b>Others</b> |<b>Hobbies</b> : Singing, playing Snooker and online game Counter Strike|
