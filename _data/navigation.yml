@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Project area"
+    url: /project area/
 
   - title: "CV"
-    url: /cv/
-    
-  - title: "Talks & Presentations"
-    url: /talks/    
+    url: /cv/    
        
   - title: "Blog Posts"
     url: /year-archive/
