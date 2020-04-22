@@ -1,7 +1,7 @@
 ---
 layout: archive
 title:
-permalink: /project area/
+permalink: /project_area/
 redirect_from:
   - /resume
 author_profile: true
