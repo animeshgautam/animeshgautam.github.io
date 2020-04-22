@@ -2,6 +2,8 @@
 layout: archive
 title:
 permalink: /project area/
+redirect_from:
+  - /resume
 author_profile: true
 ---
 
