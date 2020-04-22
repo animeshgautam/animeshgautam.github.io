@@ -18,7 +18,7 @@ Work experience
 ======
 * <b> BOX8 May'16 - Apr'17: Zonal Manager </b>
   * Roles & Responsibilities: 
-    * Operations Manager, West Zone Mumbai
+    * <b>Operations Manager</b>, West Zone Mumbai
       * Handled operations for <b>5</b> outlets in West Zone of Mumbai having a revenue of <b>INR 5 mn</b>.
       * Carried out <b>3</b> pilot <b>marketing researches</b> in focused localities and identified major <b>demand clusters</b>
       * Planned and super vised brand activations & <b>Corporate ODCs</b> at IIT Bombay and corporate complexes
@@ -37,7 +37,7 @@ Work experience
 
 SUMMER INTERNSHIP
 ======
-* <b> OfBusiness Apr'19 - May'19: Intern Salesr </b>
+* <b> OfBusiness Apr'19 - May'19: Intern Sales </b>
 
   * Roles & Responsibilities:
      * Performed Market segmentation and Sizing for <b>White Goods and Electrical Segment</b> for Bangalore
