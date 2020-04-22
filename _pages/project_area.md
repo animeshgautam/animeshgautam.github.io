@@ -1,9 +1,7 @@
 ---
 layout: archive
-title:
-permalink: /project_area/
-redirect_from:
-  - /resume
+title: "Project area"
+permalink: /publications/
 author_profile: true
 ---
 
