@@ -16,4 +16,12 @@ MBA Coursework
 | <b>Project Management</b>|<b>Supply Chain Management</b>|
 | <b>Analysis of JVs & Alliances</b> |<b> International Business</b>|
 
+CERTIFICATIONS, INTERNSHIPS & PROJECTS
+======
 
+* <b>KPMG</b>, <b> Certification </b> – Lean Six Sigma Green Belt, Eliminating Waste and Reducing Process Variations, 2018
+* <b>SaddaCampus</b>, <b> Intern, Marketing </b> -
+  * Analyzed and handled the operational activities and tie-ups with 9 local restaurants in Dhanbad
+  * Analyzed and handled the operational activities and tie-ups with 9 local restaurants in Dhanbad
+  * Executed marketing activities on social media platfor ms increasing sales by 50% in 1 month
+  * Designed various offers and schemes, resulting in an increase in the customer base by 80%
