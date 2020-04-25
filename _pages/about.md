@@ -21,7 +21,9 @@ Feel free to read a bit more about me!
 
 ## Updates
 1. IIM Kozhikode, Class of 2020
-2. IIT-ISM Dhanbad, Class of 2016
+2. OfBusiness, Intern Sales, May'19
+3. BOX8, Zonal Manager, May’16 – Apr’17
+4. IIT-ISM Dhanbad, Class of 2016
 
 
 
