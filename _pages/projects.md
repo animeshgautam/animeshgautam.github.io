@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-MBA Coursework
+PGDM Coursework
 ======
 
 | <b>Economics of Strategy</b>|<b>Strategic Management</b>|
@@ -23,3 +23,5 @@ CERTIFICATIONS, INTERNSHIPS & PROJECTS
   * Analyzed and handled the operational activities and tie-ups with 9 local restaurants in Dhanbad
   * Executed marketing activities on social media platfor ms increasing sales by <b>50%</b> in 1 month
   * Designed various offers and schemes, resulting in an increase in the <b>customer base by 80%</b>
+* <b>Udemy</b>,<b>Certification</b> - Complete Digital Marketing course including <b>SEO</b> & <b>Social Media Marketing</b>, 2020
+* <b>Udemy</b>,<b>Certification</b>– <b>Digital Marketing Automation</b> including <b>content creation</b> and <b>email Marketing<b/>, 2020
