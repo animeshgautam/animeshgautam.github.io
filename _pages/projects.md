@@ -16,7 +16,7 @@ PGDM Coursework
 
 CERTIFICATIONS, INTERNSHIPS & PROJECTS
 ======
-
+* <b>Hospitality & Tourism</b> - Project to analyze the marketing of Annapara Homestays in Wayanad, 2020
 * <b>KPMG</b>, <b> Certification </b> – Lean Six Sigma Green Belt, Eliminating Waste and Reducing Process Variations, 2018
 * <b>SaddaCampus</b>, <b> Intern, Marketing </b> -
   * Analyzed and handled the operational activities and tie-ups with <b>9</b> local restaurants in Dhanbad
