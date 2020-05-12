@@ -67,6 +67,7 @@ SUMMER INTERNSHIP
 
 Scholastic Achievements
 ======
+* Secured overall of <b>99.51</b> percentile in CAT examination with <b>99.8</b> percentile in LR-DI Section, 2018
 * Secured an AIR of <b>4,542</b> in <b>IIT JEE</b> and was among the <b>Top 1% of 0.5 mn</b> students, 2012
 * Achieved an AIR of <b>11,050</b> in <b>AIEEE</b> and was among the <b>Top 1% of 0.115 mn</b> students, 2016
 * Attained <b>A+</b> & <b>A</b> grades in around <b>25% (19 out of 78)</b> academic subjects during graduation, 2009
