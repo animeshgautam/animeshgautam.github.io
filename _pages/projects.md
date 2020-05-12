@@ -16,6 +16,11 @@ PGDM Coursework
 | <b>Project Management</b>|<b>Supply Chain Management</b>|
 | <b>Analysis of JVs & Alliances</b>|<b> International Business</b>|
 
+| <b>Programming languages</b> |                <b>Python, C/C++, R</b>               |
+|   <b>Software Libraries</b>  |       <b>TensorFlow, PyTorch, Keras, Torch</b>       |
+|         <b>Tools</b>         | <b>MATLAB, NI Labview, Scilab, Sage, Mathematica</b> |
+
+
 
 CERTIFICATIONS, INTERNSHIPS & PROJECTS
 ======
