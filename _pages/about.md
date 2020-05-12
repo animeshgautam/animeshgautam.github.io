@@ -15,7 +15,7 @@ I have done my MBA Summer Internship in Corporate sales at an NBFC, [OfBusiness]
 
 My sincerity and organization skills are evident with my academic and professional performance, as I've performed well throughout. I love taking up new initiatives, and my work has made a lot of positive impact on the operating procedures and the way the team worked.
 
-I maintain a list of my projects under the [Projects]({{ site.url }}/projects) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Animesh_Gautam_CV.pdf).
+I maintain a list of my projects under the [Projects]({{ site.url }}/projects) tab. To get an insight into my professional life so far, you can have a look at my [CV](/images/Animesh_latest.pdf).
 
 Feel free to read a bit more about me!
 
