@@ -34,6 +34,20 @@ Work experience
       * Improved NPS by <b>1.8 times in 2 months</b>, followed by mentoring other city’s PMs for NPS improvement
       * Appreciated for <b>0 iteration for 2 consecutive months</b> and maximum retention for a total of <b>4 months</b>
       * Super vised ODCs at <b>NH7 Weekender</b>, Pune which had an estimated footfall of over 45,000 individuals
+      
+      
+* <b> Tinker.ly May’17-Mar’18: Senior Executive – Operations </b>
+  * Roles & Responsibilities: 
+    * <b>Fulfillment and Delivery Operations</b>
+      * Analyzed <b>supply chain</b> and evaluated <b>resource deployment</b> & utilization to identify operational gaps
+      * Reduced the overall <b>turnaround time</b> for lab set up ensuring timely delivery and customer satisfaction
+      * Led a <b>cross functional team</b> of <b>10</b> individuals to prepare <b>layouts</b> and manage logistic flow for           project.
+   * Initiatives:
+     *  Designed an <b>inventory stock optimizer</b> and conceived new KPIs to improve the workforce monitoring
+     
+   * Achievements:
+      * Planned, scheduled and executed the delivery operations of products worth <b>1+ crore</b> to <b>26 labs</b> in Jaipur
+      * Established <b>tie-ups with new vendors</b> in new cities to ensure <b>cost reduction</b> & <b>delivery optimization</b>
 
 SUMMER INTERNSHIP
 ======
