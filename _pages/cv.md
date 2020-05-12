@@ -16,10 +16,10 @@ Education
   
 Work experience
 ======
-* <b> BOX8 May'16 - Apr'17: Zonal Manager </b>
+* <b> BOX8  May'16 - Apr'17:  Zonal Manager </b>
   * Roles & Responsibilities: 
     * <b>Operations Manager</b>, West Zone Mumbai
-      * Handled operations for <b>5</b> outlets in West Zone of Mumbai having a revenue of <b>INR 5 mn</b>.
+      * Handled operations for <b>5</b> outlets in West Zone of Mumbai having a revenue of <b>INR 5 mn</b>
       * Carried out <b>3</b> pilot <b>marketing researches</b> in focused localities and identified major <b>demand clusters</b>
       * Planned and super vised brand activations & <b>Corporate ODCs</b> at IIT Bombay and corporate complexes
       * Reduced <b>late order percentage by 140%</b>, resulting in improved customer ser vice and satisfaction
@@ -36,12 +36,12 @@ Work experience
       * Super vised ODCs at <b>NH7 Weekender</b>, Pune which had an estimated footfall of over 45,000 individuals
       
       
-* <b> Tinker.ly May’17-Mar’18: Senior Executive – Operations </b>
+* <b> Tinker.ly  May’17-Mar’18:  Senior Executive – Operations </b>
   * Roles & Responsibilities: 
     * <b>Fulfillment and Delivery Operations</b>
       * Analyzed <b>supply chain</b> and evaluated <b>resource deployment</b> & utilization to identify operational gaps
       * Reduced the overall <b>turnaround time</b> for lab set up ensuring timely delivery and customer satisfaction
-      * Led a <b>cross functional team</b> of <b>10</b> individuals to prepare <b>layouts</b> and manage logistic flow for           project.
+      * Led a <b>cross functional team</b> of <b>10</b> individuals to prepare <b>layouts</b> and manage logistic flow for           project
    * Initiatives:
      *  Designed an <b>inventory stock optimizer</b> and conceived new KPIs to improve the workforce monitoring
      
