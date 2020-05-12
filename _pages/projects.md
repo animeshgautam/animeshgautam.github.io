@@ -9,6 +9,7 @@ author_profile: true
 
 PGDM Coursework
 ======
+
 | <b>Data Analytics Using R</b>|<b>Mergers & Acquisitions</b>|
 | <b>Economics of Strategy</b>|<b>Strategic Management</b>|
 | <b>Business Analytics</b>|<b>Marketing Management</b>|
