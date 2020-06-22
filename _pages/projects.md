@@ -31,6 +31,6 @@ CERTIFICATIONS, INTERNSHIPS & PROJECTS
 * <b>Udemy</b>,<b>Certification</b>– <b>Digital Marketing Automation</b> including <b>content creation</b> and <b>email Marketing<b/>, 2020
 * <b>Project – Reduction of overall losses using parallel operations in distribution transformers</b>, 2016
   * Diagnosed and solved the problem using a new microcontroller which reduced the losses significantly
-* <b>Supply chain</b>,<b>Coursera Certification</b> -Sucessfully completed a specialization on supply chain management offered by coursera and got to learn about the various aspects of supply chain.
-  * Some of the individual courses studied under the specialization were <b>Supply Chain Operations [Certificate](images/Coursera GK3HNQJ6S9SN.pdf), Supply Chain Planning [Certificate](images/Coursera CH7DCAWH4CXN.pdf), Supply Chain Sourcing [Certificate](images/Supply Chain Sourcing.pdf), Supply Chain Logistics [Certificate](images/SC Logistics.pdf) and Supply Chain Strategy()</b>.
+* <b>Coursera Certification</b>, <b>Supply chain </b> -Sucessfully completed a specialization on supply chain management offered by coursera and got to learn about the various aspects of supply chain.
+  * Some of the individual courses studied under the specialization were <b>Supply Chain Operations</b> [Certificate](images/SC_operations.pdf), <b>Supply Chain Planning</b> [Certificate](images/SC_planing.pdf), Supply Chain Sourcing [Certificate](images/Supply_Chain_Sourcing.pdf), <b>Supply Chain Logistics</b> [Certificate](images/SC_Logistics.pdf) and <b>Supply Chain Strategy</b>.
   * Please find the attached certificates along with the individual courses and combined [Certificate](images/SupplyChain.pdf) here.
