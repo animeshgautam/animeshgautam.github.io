@@ -20,7 +20,7 @@ I maintain a list of my projects under the [Projects]({{ site.url }}/projects) t
 Feel free to read a bit more about me!
 
 ## Updates
-1. Supply chain, [Coursera](https://www.coursera.org/) Certification, 2020
+1. Supply chain, [Coursera](https://www.coursera.org/) [Certification](/images/SupplyChain-page-001.jpg), 2020
 2. [IIM KOZHIKODE](http://www.iitk.ac.in/), Class of 2020
 3. [OfBusiness](https://www.ofbusiness.com), Intern Sales, May'19
 4. [Tinker.ly](https://tinker.ly/)
