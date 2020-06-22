@@ -20,11 +20,12 @@ I maintain a list of my projects under the [Projects]({{ site.url }}/projects) t
 Feel free to read a bit more about me!
 
 ## Updates
-1. Supply chain, Coursera Certification, 2020
-2. IIM Kozhikode, Class of 2020
-3. OfBusiness, Intern Sales, May'19
-4. BOX8, Zonal Manager, May’16 – Apr’17
-5. IIT-ISM Dhanbad, Class of 2016
+1. Supply chain, [Coursera](https://www.coursera.org/) Certification, 2020
+2. [IIM KOZHIKODE](http://www.iitk.ac.in/), Class of 2020
+3. [OfBusiness](https://www.ofbusiness.com), Intern Sales, May'19
+4. [Tinker.ly](https://tinker.ly/)
+5. [Box8](https://box8.in), May’16 – Apr’17
+6. [IIT-ISM Dhanbad](https://www.iitism.ac.in), Class of 2016
 
 
 
