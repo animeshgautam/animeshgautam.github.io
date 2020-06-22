@@ -32,5 +32,5 @@ CERTIFICATIONS, INTERNSHIPS & PROJECTS
 * <b>Project – Reduction of overall losses using parallel operations in distribution transformers</b>, 2016
   * Diagnosed and solved the problem using a new microcontroller which reduced the losses significantly
 * <b>Coursera Certification</b>, <b>Supply chain </b> -Sucessfully completed a specialization on supply chain management offered by coursera and got to learn about the various aspects of supply chain.
-  * Some of the individual courses studied under the specialization were <b>Supply Chain Operations</b> [Certificate](images/SC_operations.pdf), <b>Supply Chain Planning</b> [Certificate](images/SC_planing.pdf), Supply Chain Sourcing [Certificate](images/Supply_Chain_Sourcing.pdf), <b>Supply Chain Logistics</b> [Certificate](images/SC_Logistics.pdf) and <b>Supply Chain Strategy</b>.
-  * Please find the attached certificates along with the individual courses and combined [Certificate](images/SupplyChain.pdf) here.
+  * Some of the individual courses studied under the specialization were <b>Supply Chain Operations</b> [Certificate](/images/SC_operations.pdf), <b>Supply Chain Planning</b> [Certificate](/images/SC_planing.pdf), Supply Chain Sourcing [Certificate](/images/Supply_Chain_Sourcing.pdf), <b>Supply Chain Logistics</b> [Certificate](/images/SC_Logistics.pdf) and <b>Supply Chain Strategy</b>.
+  * Please find the attached certificates along with the individual courses and combined [Certificate](/images/SupplyChain.pdf) here.
