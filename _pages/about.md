@@ -21,9 +21,7 @@ Feel free to read a bit more about me!
 
 ## Updates
 1. Supply chain, [Coursera](https://www.coursera.org/) Certification, 2020
-<img src="/images/SupplyChain-page-001.jpg.jpeg"
-     alt="Markdown Monster icon" width="600"
-     style="float: center; margin-right: 50px;" />
+<img src="/images/SupplyChain-page-001.jpg." />
 2. [IIM KOZHIKODE](http://www.iitk.ac.in/), Class of 2020
 3. [OfBusiness](https://www.ofbusiness.com), Intern Sales, May'19
 4. [Tinker.ly](https://tinker.ly/)
